@@ -8,7 +8,7 @@ public class Loop1
             System.out.println("Hello World "+counter);
             counter++;
         }
-        System.out.println("Printer HW 100 times");
+        System.out.println("Printer HW 10 times");
 
     }
     
